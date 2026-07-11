@@ -170,6 +170,8 @@ Tidak menggunakan framework seperti:
 
 ---
 
+# 📂 Struktur Project
+
 ```
 # 📂 Struktur Project
 
@@ -189,6 +191,7 @@ Mukenaria/
     ├── images/
     ├── icons/
     └── qris/
+```
 ```
 
 ---
