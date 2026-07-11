@@ -192,8 +192,6 @@ Mukenaria/
 
 ---
 
----
-
 # 📸 Fitur yang Tersedia
 
 ✅ Responsive Navigation
