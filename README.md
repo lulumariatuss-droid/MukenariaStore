@@ -170,11 +170,6 @@ Tidak menggunakan framework seperti:
 
 ---
 
-# 📂 Struktur Project
-
-```
-# 📂 Struktur Project
-
 ```
 # 📂 Struktur Project
 
