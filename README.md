@@ -95,7 +95,7 @@ Pengguna dapat:
 
 ## 👤 Login
 
-Website menyediakan modal login yang dapat dikembangkan menjadi autentikasi menggunakan database.
+Website menyediakan modal login sebagai customer maupun admin yang dapat dikembangkan menjadi autentikasi menggunakan database.
 
 ---
 
@@ -188,34 +188,6 @@ Mukenaria/
     ├── images/
     ├── icons/
     └── qris/
-
----
-
-# 🚀 Cara Menjalankan
-
-### 1. Clone Repository
-
-```
-[git clone https://github.com/username/mukenaria.git] (https://lulumariatuss-droid.github.io/MukenariaStore/)
-```
-
-### 2. Masuk ke Folder
-
-```bash
-cd mukenaria
-```
-
-### 3. Jalankan Website
-
-Buka file
-
-```
-index.html
-```
-
-menggunakan browser.
-
-Atau gunakan ekstensi **Live Server** pada Visual Studio Code.
 
 ---
 
