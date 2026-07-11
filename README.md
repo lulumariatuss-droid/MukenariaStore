@@ -191,7 +191,7 @@ Mukenaria/
 
 ---
 
-# 📸 Fitur yang Tersedia
+### 📸 Fitur yang Tersedia
 
 ✅ Responsive Navigation
 
@@ -231,7 +231,7 @@ Mukenaria/
 
 ---
 
-# 📚 Pembelajaran
+### 📚 Pembelajaran
 
 Project ini mengimplementasikan konsep:
 
@@ -248,7 +248,7 @@ Project ini mengimplementasikan konsep:
 
 ---
 
-# 🔮 Pengembangan Selanjutnya
+### 🔮 Pengembangan Selanjutnya
 
 Beberapa fitur yang dapat ditambahkan:
 
@@ -266,7 +266,7 @@ Beberapa fitur yang dapat ditambahkan:
 
 ---
 
-# 👩‍💻 Author
+### 👩‍💻 Author
 
 **Lulu Mariatus Soliah**
 
@@ -278,6 +278,6 @@ Instagram:
 
 ---
 
-# 📄 License
+### 📄 License
 
 Project ini dibuat untuk keperluan pembelajaran dan pengembangan portofolio.
