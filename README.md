@@ -1,13 +1,13 @@
 # 🌙 Mukenaria - Website E-Commerce Mukena Modern
 
-Mukenaria adalah brand mukena modern yang menghadirkan kenyamanan, kualitas, dan keanggunan dalam setiap produk. Dengan bahan premium yang lembut, adem, dan nyaman digunakan, Mukenaria dirancang untuk menemani setiap momen ibadah agar terasa lebih khusyuk dan penuh ketenangan.
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Responsive-Mobile%20Friendly-success?style=for-the-badge)
 
 Website e-commerce **Mukenaria** merupakan aplikasi web yang dibuat menggunakan **HTML, CSS, dan JavaScript murni (Vanilla JavaScript)** tanpa framework tambahan. Website ini dirancang untuk memberikan pengalaman berbelanja mukena secara modern, elegan, responsif, dan interaktif.
+
+---
 
 # 📖 Deskripsi
 
@@ -95,7 +95,7 @@ Pengguna dapat:
 
 ## 👤 Login
 
-Website menyediakan modal login sebagai customer maupun admin yang dapat dikembangkan menjadi autentikasi menggunakan database.
+Website menyediakan modal login yang dapat dikembangkan menjadi autentikasi menggunakan database.
 
 ---
 
@@ -173,25 +173,32 @@ Tidak menggunakan framework seperti:
 # 📂 Struktur Project
 
 ```
+# 📂 Struktur Project
+
+```
 Mukenaria/
 │
-├── index.html
-├── README.md
+├── index.html    # Halaman utama website
+├── README.md     # Dokumentasi project
 │
 ├── css/
-│   └── style.css
+│   └── style.css    # Seluruh tampilan dan styling website
 │
 ├── js/
-│   └── script.js
+│   └── script.js    # Seluruh logika dan interaksi website
 │
 └── assets/
     ├── images/
     ├── icons/
     └── qris/
+```
+```
 
 ---
 
-### 📸 Fitur yang Tersedia
+---
+
+# 📸 Fitur yang Tersedia
 
 ✅ Responsive Navigation
 
@@ -231,7 +238,7 @@ Mukenaria/
 
 ---
 
-### 📚 Pembelajaran
+# 📚 Pembelajaran
 
 Project ini mengimplementasikan konsep:
 
@@ -248,7 +255,7 @@ Project ini mengimplementasikan konsep:
 
 ---
 
-### 🔮 Pengembangan Selanjutnya
+# 🔮 Pengembangan Selanjutnya
 
 Beberapa fitur yang dapat ditambahkan:
 
@@ -266,7 +273,7 @@ Beberapa fitur yang dapat ditambahkan:
 
 ---
 
-### 👩‍💻 Author
+# 👩‍💻 Author
 
 **Lulu Mariatus Soliah**
 
@@ -278,6 +285,14 @@ Instagram:
 
 ---
 
-### 📄 License
+# 📄 License
 
 Project ini dibuat untuk keperluan pembelajaran dan pengembangan portofolio.
+
+Silakan digunakan, dimodifikasi, dan dikembangkan lebih lanjut.
+
+---
+
+## ⭐ Jika project ini bermanfaat
+
+Berikan ⭐ pada repository GitHub ini agar dapat membantu pengembang lain menemukan project ini.
