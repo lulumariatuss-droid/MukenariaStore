@@ -176,22 +176,24 @@ Tidak menggunakan framework seperti:
 # 📂 Struktur Project
 
 ```
+# 📂 Struktur Project
+
+```
 Mukenaria/
 │
-├── index.html    # Halaman utama website
-├── README.md     # Dokumentasi project
+├── index.html
+├── README.md
 │
 ├── css/
-│   └── style.css    # Seluruh tampilan dan styling website
+│   └── style.css
 │
 ├── js/
-│   └── script.js    # Seluruh logika dan interaksi website
+│   └── script.js
 │
 └── assets/
     ├── images/
     ├── icons/
     └── qris/
-```
 ```
 
 ---
