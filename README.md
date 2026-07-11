@@ -172,10 +172,6 @@ Tidak menggunakan framework seperti:
 
 # 📂 Struktur Project
 
-```
-# 📂 Struktur Project
-
-```
 Mukenaria/
 │
 ├── index.html
@@ -191,7 +187,6 @@ Mukenaria/
     ├── images/
     ├── icons/
     └── qris/
-```
 ```
 
 ---
