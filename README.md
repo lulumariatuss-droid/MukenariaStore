@@ -269,6 +269,7 @@ Hasil analisis digunakan untuk:
 
 # 📂 Struktur Project
 
+'''
 Mukenaria/
 │
 ├── index.html
@@ -286,7 +287,7 @@ Mukenaria/
 │   ├── review.png
 │   ├── contact.png
 │   └── mobile.png
-
+'''
 ---
 # 📸 Dokumentasi Website
 
