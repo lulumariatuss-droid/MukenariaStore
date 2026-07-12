@@ -269,25 +269,23 @@ Hasil analisis digunakan untuk:
 
 # 📂 Struktur Project
 
-'''
+```
 Mukenaria/
 │
 ├── index.html
-├── style.css
-├── script.js
 ├── README.md
 │
-├── images/
-│   ├── home.png
-│   ├── katalog.png
-│   ├── detail-produk.png
-│   ├── cart.png
-│   ├── checkout.png
-│   ├── payment.png
-│   ├── review.png
-│   ├── contact.png
-│   └── mobile.png
-'''
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── assets/
+    ├── images/
+    ├── icons/
+    └── qris/
+```
 ---
 # 📸 Dokumentasi Website
 
