@@ -266,6 +266,28 @@ Hasil analisis digunakan untuk:
 - Mengoptimalkan strategi pemasaran digital.
 
 ---
+
+# 📂 Struktur Project
+
+Mukenaria/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+│
+├── images/
+│   ├── home.png
+│   ├── katalog.png
+│   ├── detail-produk.png
+│   ├── cart.png
+│   ├── checkout.png
+│   ├── payment.png
+│   ├── review.png
+│   ├── contact.png
+│   └── mobile.png
+
+---
 # 📸 Dokumentasi Website
 
 Berikut merupakan tampilan antarmuka website Mukenaria yang telah dikembangkan.
@@ -280,9 +302,7 @@ Menampilkan banner utama, navigasi, informasi singkat mengenai Mukenaria, serta 
 
 ## 2. Halaman Katalog Produk
 
-> **Tempatkan Screenshot Katalog di sini**
-
-![Katalog](images/katalog.png)
+![alt text](https://github.com/lulumariatuss-droid/MukenariaStore/blob/main/Katalog.jpg?raw=true)
 
 Menampilkan seluruh produk mukena lengkap dengan fitur pencarian, filter kategori, filter harga, serta tombol detail produk.
 
@@ -290,9 +310,7 @@ Menampilkan seluruh produk mukena lengkap dengan fitur pencarian, filter kategor
 
 ## 3. Detail Produk
 
-> **Tempatkan Screenshot Detail Produk di sini**
-
-![Detail Produk](images/detail-produk.png)
+![alt text](https://github.com/lulumariatuss-droid/MukenariaStore/blob/main/DetailProduk.jpg?raw=true)
 
 Menampilkan informasi lengkap produk seperti gambar, harga, pilihan warna, ukuran, jumlah pembelian, dan tombol tambah ke keranjang.
 
@@ -300,9 +318,7 @@ Menampilkan informasi lengkap produk seperti gambar, harga, pilihan warna, ukura
 
 ## 4. Keranjang Belanja
 
-> **Tempatkan Screenshot Keranjang di sini**
-
-![Keranjang](images/cart.png)
+![alt text](https://github.com/lulumariatuss-droid/MukenariaStore/blob/main/Keranjang.jpg?raw=true)
 
 Berisi daftar produk yang dipilih pelanggan beserta total harga sebelum melakukan checkout.
 
@@ -310,9 +326,7 @@ Berisi daftar produk yang dipilih pelanggan beserta total harga sebelum melakuka
 
 ## 5. Halaman Checkout
 
-> **Tempatkan Screenshot Checkout di sini**
-
-![Checkout](images/checkout.png)
+![alt text](https://github.com/lulumariatuss-droid/MukenariaStore/blob/main/Checkout.jpg?raw=true)
 
 Menampilkan formulir data pelanggan, alamat pengiriman, kode promo, pilihan metode pembayaran, serta ringkasan pesanan.
 
@@ -320,9 +334,7 @@ Menampilkan formulir data pelanggan, alamat pengiriman, kode promo, pilihan meto
 
 ## 6. Simulasi Pembayaran
 
-> **Tempatkan Screenshot Payment Gateway di sini**
-
-![Payment](images/payment.png)
+![alt text](https://github.com/lulumariatuss-droid/MukenariaStore/blob/main/Pembayaran.jpg?raw=true)
 
 Contoh simulasi pembayaran menggunakan **Midtrans Sandbox** dengan metode QRIS atau Virtual Account.
 
@@ -330,9 +342,7 @@ Contoh simulasi pembayaran menggunakan **Midtrans Sandbox** dengan metode QRIS a
 
 ## 7. Halaman Ulasan Pelanggan
 
-> **Tempatkan Screenshot Ulasan di sini**
-
-![Review](images/review.png)
+![alt text](https://github.com/lulumariatuss-droid/MukenariaStore/blob/main/Ulasan.jpg?raw=true)
 
 Menampilkan rating pelanggan serta form untuk memberikan ulasan terhadap produk.
 
@@ -340,9 +350,7 @@ Menampilkan rating pelanggan serta form untuk memberikan ulasan terhadap produk.
 
 ## 8. Halaman Kontak
 
-> **Tempatkan Screenshot Kontak di sini**
-
-![Kontak](images/contact.png)
+![alt text](https://github.com/lulumariatuss-droid/MukenariaStore/blob/main/Kontak.jpg?raw=true)
 
 Berisi informasi alamat, email, WhatsApp, Instagram, serta Google Maps lokasi toko.
 
@@ -350,8 +358,6 @@ Berisi informasi alamat, email, WhatsApp, Instagram, serta Google Maps lokasi to
 
 ## 9. Tampilan Responsif (Mobile)
 
-> **Tempatkan Screenshot Tampilan Mobile di sini**
-
-![Mobile](images/mobile.png)
+![alt text](https://github.com/lulumariatuss-droid/MukenariaStore/blob/main/BerandaHp.jpeg?raw=true)
 
 Menunjukkan bahwa website dapat diakses dengan baik melalui perangkat smartphone.
