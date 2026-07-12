@@ -272,7 +272,7 @@ Berikut merupakan tampilan antarmuka website Mukenaria yang telah dikembangkan.
 
 ## 1. Halaman Beranda (Home)
 
-![Home](images/Beranda.png)
+![alt text](https://github.com/lulumariatuss-droid/MukenariaStore/blob/main/Beranda.jpg?raw=true)
 
 Menampilkan banner utama, navigasi, informasi singkat mengenai Mukenaria, serta tombol menuju katalog produk.
 
